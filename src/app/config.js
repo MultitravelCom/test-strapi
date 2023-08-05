@@ -1,0 +1,1 @@
+export const { API_STRAPI, API_STRAPI_IMG } = process.env;
